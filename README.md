@@ -18,7 +18,7 @@ An independent information technology company and media company, based in India.
 [![Website](https://img.shields.io/badge/website-kimitechnologies.vercel.app-0B51D6?style=flat-square&labelColor=0A0C12)](https://kimitechnologies.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi%20Technologies-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0C12)](https://www.linkedin.com/company/kimitechnologies/)
 [![Email](https://img.shields.io/badge/general-official.kimitech%40gmail.com-0B51D6?style=flat-square&labelColor=0A0C12)](mailto:official.kimitech@gmail.com)
-[![Email](https://img.shields.io/badge/support-connect.kimitech@gmail.com-0B51D6?style=flat-square&labelColor=0A0C12)
+[![Email](https://img.shields.io/badge/support-connect.kimitech@gmail.com-0B51D6?style=flat-square&labelColor=0A0C12)](mailto:connect.kimitech@gmail.com)
 [![Licence](https://img.shields.io/badge/licence-MIT-0B51D6?style=flat-square&labelColor=0A0C12)](https://opensource.org/license/mit)
 
 </div>

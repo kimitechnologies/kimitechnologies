@@ -17,7 +17,9 @@ An independent information technology company and media company, based in India.
 
 [![Website](https://img.shields.io/badge/website-kimitechnologies.vercel.app-0B51D6?style=flat-square&labelColor=0A0C12)](https://kimitechnologies.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi%20Technologies-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0C12)](https://www.linkedin.com/company/kimitechnologies/)
-[![Email](https://img.shields.io/badge/email-connect.kimitech%40gmail.com-0B51D6?style=flat-square&labelColor=0A0C12)](mailto:connect.kimitech@gmail.com)
+[![Email](https://img.shields.io/badge/email-official.kimitech%40gmail.com-0B51D6?style=flat-square&labelColor=0A0C12)](mailto:official.kimitech@gmail.com)
+[![Email]
+(https://img.shields.io/badge/email-connect.kimitech%40gmail.com-0B51D6?style=flat-square&labelColor=0A0C12)](mailto:connect.kimitech@gmail.com)
 [![Licence](https://img.shields.io/badge/licence-MIT-0B51D6?style=flat-square&labelColor=0A0C12)](https://opensource.org/license/mit)
 
 </div>
@@ -40,7 +42,7 @@ Every project below is free, MIT licensed, and runs entirely in the browser. No 
 
 | Project | What it does | Try it |
 | --- | --- | --- |
-| **Fácil** | Compress video and images, and convert media to and from Base64 — six utilities on one page. | [itsfacil.vercel.app](https://itsfacil.vercel.app) |
+| **Fácil** | Compress video and images, and convert media to and from Base64 six utilities on one page. | [itsfacil.vercel.app](https://itsfacil.vercel.app) |
 | **BeeLink** | Share a file with a six-digit code. Nothing is stored on a server. | [getbeelink.vercel.app](https://getbeelink.vercel.app) |
 | **OPENQR** | QR code generator with full control over colour, size and shape. | [openqrdev.vercel.app](https://openqrdev.vercel.app) |
 | **NOT ACCESS** | Password-protected, decentralised, offline-first progressive web app. | [notaccess.vercel.app](https://notaccess.vercel.app) |
@@ -69,15 +71,12 @@ Issues and pull requests are welcome on any public repository.
 - Keep the client-side constraint: no server-side processing, no data collection.
 - Match the existing style, and keep dependencies out unless there is a clear reason for one.
 - For anything larger than a bug fix, open an issue first so the approach can be agreed before the work.
-- Security reports should go to **connect.kimitech@gmail.com** with `security` in the subject line, not to the public issue tracker.
+- Security reports should go to **official.kimitech@gmail.com** & **connect.kimitech@gmail.com** with `security` in the subject line, not to the public issue tracker.
 
 ## Contact
 
-- **Website** — [kimitechnologies.vercel.app](https://kimitechnologies.vercel.app)
-- **Email** — [connect.kimitech@gmail.com](mailto:connect.kimitech@gmail.com)
-- **LinkedIn** — [Kimi Technologies](https://www.linkedin.com/company/kimitechnologies/)
-- **Founder** — [@ItsNobodyX](https://github.com/ItsNobodyX)
-- **Location** — India
+- **Founder** - [@ItsNobodyX](https://github.com/ItsNobodyX)
+- **Location** - India
 
 ## Licence
 
